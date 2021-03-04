@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.maxexplode.jpatools.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.maxexplode.jpatools.MyBundle
 
 class MyApplicationService {
 
